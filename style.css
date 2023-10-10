@@ -46,6 +46,12 @@
 }
 
 /*=============== BASE ===============*/
+
+body {
+    background-image: url('your-background-pattern.png');
+    background-repeat: repeat;
+}
+
 * {
   box-sizing: border-box;
   padding: 0;
